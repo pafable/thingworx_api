@@ -1,7 +1,7 @@
 import requests, openpyxl, re
 
-TWXAPPKEY = '43935222-f84f-4dfd-aee2-b909bd419537'
-TWXURL = 'ptc-test5.cloud.thingworx.com'
+TWXAPPKEY = ''
+TWXURL = ''
 
 ## Opens precursor spreadsheet ##
 workBook1 = openpyxl.load_workbook('C:\\Users\\pafable\\Documents\\git\\thingworx_api\\list.xlsx')
